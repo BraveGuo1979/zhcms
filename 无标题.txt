@@ -1,0 +1,23 @@
+
+var userauthsstr = "identifier{-}" + tel + "{|}credential{-}" + password + "{|}identitytype{-}1";
+    wx.request({
+      url: apiURL + '/user/api/Userauths.php',
+      method: 'GET',
+      data: {
+        fname: "getAll",
+        id: userauthsstr,
+        page: "",
+        curpage: "",
+        order: "",
+        where: "",
+        limit: "",
+        sql: "",
+        b: ""
+      },
+      header: {
+        'Accept': 'application/json'
+      },
+      success: function (res) {
+        console.log(res.data.data.data);
+      }
+    })

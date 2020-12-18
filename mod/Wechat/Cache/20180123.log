@@ -1,0 +1,2 @@
+[2018/01/23 18:56:45] ERR - WechatOauth::getOauthAccessToken Fail.invalid code, hints: [ req_id: 0196th27 ] [40029]
+[2018/01/23 18:57:04] ERR - WechatOauth::getOauthAccessToken Fail.invalid code, hints: [ req_id: VPr9na0215th44 ] [40029]

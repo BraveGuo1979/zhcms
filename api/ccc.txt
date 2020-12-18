@@ -1,0 +1,1 @@
+update ks_kaoshenglist set zigefile='https://gongan.myjob168.com/upload/2020/07/25/20200725517072305.jpeg' where id='41'
