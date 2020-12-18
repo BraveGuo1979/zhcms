@@ -1,0 +1,6 @@
+1.adsense：广告模块
+2.shop：商户模块
+3.scale：称模块
+4.circle：圈子模块
+5.finance：财务模块
+5.system：系统模块
